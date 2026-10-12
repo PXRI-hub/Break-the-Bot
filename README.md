@@ -15,8 +15,6 @@ It's a follow-up to my [llm-audit](https://github.com/PXRI-hub/llm-audit) projec
 3. If the bot says the word in its reply, you win the level. On levels where a censor blocks the word, you'll have to get it out another way (spelled differently, for example) and type your guess into the green box.
 4. A popup lets you move on to the next level.
 
-<img width="1691" height="972" alt="levelBeat" src="https://github.com/user-attachments/assets/f0c28c75-a141-476a-b0e1-775eb06a839e" />
-
 ## The levels
 
 | Level | Name | Defense |

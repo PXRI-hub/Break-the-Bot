@@ -6,7 +6,8 @@ It's a follow-up to my [llm-audit](https://github.com/PXRI-hub/llm-audit) projec
 
 **Status: work in progress.** The game runs and all 10 levels exist, but I'm still playtesting the difficulty.
 
-![The game's main screen](screenshots/main-screen.png)
+<img width="1597" height="958" alt="home" src="https://github.com/user-attachments/assets/87548646-4f87-42d5-b8ce-b16048f11413" />
+
 
 ## How to play
 
@@ -14,6 +15,8 @@ It's a follow-up to my [llm-audit](https://github.com/PXRI-hub/llm-audit) projec
 2. Chat with the bot and try to get it to say its secret word.
 3. If the bot says the word in its reply, you win the level. On levels where a censor blocks the word, you'll have to get it out another way (spelled differently, for example) and type your guess into the green box.
 4. A popup lets you move on to the next level.
+
+<img width="1691" height="972" alt="level" src="https://github.com/user-attachments/assets/4bc36def-add6-44c9-b672-9e44898927e9" />
 
 ## The levels
 
@@ -30,7 +33,7 @@ It's a follow-up to my [llm-audit](https://github.com/PXRI-hub/llm-audit) projec
 | 9 | Strict censor | The censor also catches spaced-out letters and backwards spelling |
 | 10 | The fortress | Firm rules, reminders, banned words, and the strict censor together |
 
-<img width="1746" height="993" alt="censor" src="https://github.com/user-attachments/assets/f28cf53f-78c6-47e8-8910-452b01a2c524" />
+<img width="1648" height="959" alt="censor" src="https://github.com/user-attachments/assets/50b32c94-31e1-4f47-b4c8-770382a5891f" />
 
 ## What I found
 
